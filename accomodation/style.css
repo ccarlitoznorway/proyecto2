@@ -1,7 +1,6 @@
 footer{
     background-color:white;
     padding: 25px;
-    font-style:bold;
     }
 
 .fa {
@@ -13,22 +12,14 @@ footer{
   }
 nav{
     margin-top:-30px;
-    background-color:rgb(123, 77, 77);
 }
 .p1{
-    font-size:15px;
     text-align: center;
     padding:5px;
     color:black;
     font-style:italic;
     font-family:fantasy;
     font-style:bolder;
+    font-size:20px;
 }
-.p2{
-    font-size:15px;
-    text-align: center;
-    padding:5px;
-    color:blue;
-    font-style:italic;
-    font-family:Monospace;
-}
+
