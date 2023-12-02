@@ -27,3 +27,14 @@ footer{
 }
 aside{text-align:center;
 }
+iframe,img{width:100%; /*width 100% responsive*/
+}
+@media screen and (min-width:300px) {
+    iframe{height:300px
+    }
+}
+@media screen and (min-width:576px) {
+    iframe{height:500px
+    }
+}
+
